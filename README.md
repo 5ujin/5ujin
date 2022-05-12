@@ -34,6 +34,6 @@
 <br>
 <br>
 
-<div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=5ujin)](https://github.com/5ujin/github-readme-stats)
-</div>
+<p align="center">
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=5ujin&show_icons=true&theme=omni)
+</p>

@@ -35,5 +35,5 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/stateaward"><img src="https://github-readme-stats.vercel.app/api?username=5ujin"&show_icons=true&theme=omni/></a>
+  <a href="https://github.com/anuraghazra/5ujin"><img src="https://github-readme-stats.vercel.app/api?username=5ujin"&show_icons=true&theme=omni/></a>
 </p>

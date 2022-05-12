@@ -13,13 +13,14 @@
     <img src="https://img.shields.io/badge/django-0C4B33?style=flat-square&logo=django&logoColor=white"/>
 </p>
 
+
 <p align="center">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 </p>
-
+<br>
 
 <h3 align="center">📚Learning...</h3>
 <p align="center">
@@ -27,6 +28,11 @@
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
 </p>
+<br>
+<br>
+<br>
+<br>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=5ujin)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/stateaward"><img src="https://github-readme-stats.vercel.app/api?username=5ujin"&show_icons=true&theme=omni/></a>
+</p>

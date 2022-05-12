@@ -1,6 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,7,9,11,14,15,18,20,27&height=300&section=header&text=Sujin();&animation=twinkling&fontSize=80&fontAlignY=45)
 
-<h2 align="center">💡Tech Skill</h2>
+<h2 align="center">💡Tech Stack</h2>
+<p align="center">
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Vue.js-64B587?style=flat-square&logo=Vue.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/scss-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
+</p>
 <!--
 **5ujin/5ujin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

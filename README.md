@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,7,9,11,14,15,18,20,27&height=300&section=header&text=Sujin();&animation=twinkling&fontSize=80&fontAlignY=45)
 
-## 💡Tech Stack
+<h2 align="center">💡Tech Skill</h2>
 <!--
 **5ujin/5ujin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -34,7 +34,6 @@
 <br>
 <br>
 
-<p align="center">
-    [![5ujin github stats](https://github-readme-stats.vercel.app/api?username=5ujin&show_icons=true)](https://github.com/5ujin)
-    <a href="https://github.com/anuraghazra/5ujin"><img src="https://github-readme-stats.vercel.app/api?username=5ujin"/></a>
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=5ujin&repo=github-readme-stats&show_icons=true&theme=omni" />
+</a>

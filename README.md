@@ -33,7 +33,7 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/5ujin"><img src="https://github-readme-stats.vercel.app/api?username=5ujin&hide=stars&theme=omni&show_icons=true"/></a>
+  <a href="https://github.com/anuraghazra/5ujin"><img src="https://github-readme-stats.vercel.app/api?username=5ujin&hide=stars&title_color=#f279c5&show_icons=true"/></a>
 </div>
 
 <br>

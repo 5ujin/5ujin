@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,7,9,11,14,15,18,20,27&height=300&section=header&text=Sujin();&animation=twinkling&fontSize=80&fontAlignY=45)
 
-<h2 align="center">💡Tech Stack</h2>
+<h3 align="center">💡Tech Stack</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
     <img src="https://img.shields.io/badge/Vue.js-64B587?style=flat-square&logo=Vue.js&logoColor=white"/>
